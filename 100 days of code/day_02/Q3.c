@@ -12,7 +12,7 @@ Input 2:
 Output 2:
 Area=21, Perimeter=20
 
-*/
+*/  
 
 #include <stdio.h>
 
